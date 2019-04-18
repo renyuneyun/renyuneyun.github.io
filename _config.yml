@@ -1,0 +1,48 @@
+# Site settings
+title: "@renyuneyun - Rui Zhao"
+description: >- # this means to ignore newlines until "baseurl:"
+    A FLOSS one.
+baseurl: ""
+url: "https://renyuneyun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: renyuneyun/renyuneyun.github.io
+
+
+# Build settings
+markdown: kramdown
+remote_theme: YoussefRaafatNasry/portfolYOU
+# plugins:
+# - jekyll-feed
+
+
+# Author Info
+author:
+  name     : Rui Zhao (renyuneyun)
+  image    : https://www.gravatar.com/avatar/2056d56888b443ab438fb956e898cc9d?s=300
+  github   : renyuneyun
+  linkedin : zhaoruigh
+
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+# Default values for collections
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+# Exclude from processing.
+exclude:
+- README.md
+- CONTRIBUTING.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
+- vendor/

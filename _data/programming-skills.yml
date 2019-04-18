@@ -1,0 +1,28 @@
+- name: Python
+  percentage: 85
+  color: primary
+
+- name: Rust
+  percentage: 50
+  color: info
+
+- name: Go
+  percentage: 80
+  color: info
+
+- name: Android
+  percentage: 80
+  color: info
+
+- name: C
+  percentage: 90
+  color: primary
+
+- name: C++
+  percentage: 70
+  color: success
+
+- name: Java
+  percentage: 90
+  color: danger
+
