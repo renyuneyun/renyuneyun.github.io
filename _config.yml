@@ -3,7 +3,7 @@ title: "@renyuneyun - Rui Zhao"
 description: >- # this means to ignore newlines until "baseurl:"
     A FLOSS one.
 baseurl: ""
-url: "https://renyuneyun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://me.ryey.icu" # the base hostname & protocol for your site, e.g. http://example.com
 repository: renyuneyun/renyuneyun.github.io
 
 
