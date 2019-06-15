@@ -18,9 +18,11 @@ remote_theme: YoussefRaafatNasry/portfolYOU
 author:
   name     : Rui Zhao (renyuneyun)
   image    : https://www.gravatar.com/avatar/2056d56888b443ab438fb956e898cc9d?s=300
-  github   : renyuneyun
-  linkedin : zhaoruigh
   email    : email@ryey.icu
+  linkedin : zhaoruigh
+  github   : renyuneyun
+  gitlab   : renyuneyun
+  mastodon : "@renyuneyun"
 
 
 # Collections

@@ -1,0 +1,25 @@
+email:
+  url   : "mailto:"
+  icon  : fas fa-envelope
+  color : db4437
+
+github:
+  url   : https://www.github.com/
+  icon  : fab fa-github
+  color : 333333
+
+gitlab:
+  url   : https://gitlab.com/
+  icon  : fab fa-gitlab
+  color : fca326
+
+linkedin:
+  url   : https://www.linkedin.com/in/
+  icon  : fab fa-linkedin-in
+  color : 007bb5
+
+mastodon:
+  url   : https://cmx.im/
+  icon  : fab fa-mastodon
+  color : 00bce4
+
