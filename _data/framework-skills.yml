@@ -1,0 +1,12 @@
+- name: Qt
+  percentage: 70
+  color: primary
+
+- name: MPI
+  percentage: 80
+  color: success
+
+- name: Android
+  percentage: 80
+  color: success
+

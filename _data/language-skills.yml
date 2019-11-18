@@ -3,26 +3,22 @@
   color: primary
 
 - name: Rust
-  percentage: 50
-  color: info
-
-- name: Go
-  percentage: 80
-  color: info
-
-- name: Android
-  percentage: 80
-  color: info
-
-- name: C
-  percentage: 90
+  percentage: 75
   color: primary
 
-- name: C++
+- name: Go
   percentage: 70
   color: success
 
+- name: C
+  percentage: 90
+  color: success
+
+- name: C++
+  percentage: 70
+  color: info
+
 - name: Java
   percentage: 90
-  color: danger
+  color: info
 

@@ -1,8 +1,8 @@
-- name: Linux administration
-  percentage: 85
-  color: primary
-
 - name: 古琴
   percentage: 50
+  color: primary
+
+- name: 吟誦
+  percentage: 60
   color: primary
 
