@@ -9,7 +9,7 @@ weight: 20
 
 If you ever find any of my work interesting and would like to support me, please consider one of the following methods:
 
-* Liberapay<script src="https://liberapay.com/renyuneyun/widgets/button.js"></script><noscript><a href="https://liberapay.com/renyuneyun/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+* [Liberapay](https://liberapay.com/renyuneyun/donate)<script src="https://liberapay.com/renyuneyun/widgets/button.js"></script><noscript><a href="https://liberapay.com/renyuneyun/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 * [Patreon](https://www.patreon.com/renyuneyun)
 * [Paypal](https://www.paypal.me/ryey)
 
