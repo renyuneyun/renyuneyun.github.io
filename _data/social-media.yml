@@ -3,6 +3,11 @@ email:
   icon  : fas fa-envelope
   color : db4437
 
+orcid:
+  url   : https://orcid.org/
+  icon  : fa-brands fa-orcid
+  color : a6ce39
+
 github:
   url   : https://www.github.com/
   icon  : fab fa-github
