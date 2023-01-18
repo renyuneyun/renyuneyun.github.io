@@ -2,26 +2,31 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 1
 ---
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br />
-I'm currently a PhD student at the University of Edinburgh, [working on modelling data use policy using formal methods](http://homepages.inf.ed.ac.uk/s1623641/index.html).<br />
-Arch Linux is my main distro. I do some FLOSS development in spare time (currently mainly on [Easer](/projects/)).<br />
+Hi I am **{{ site.author.name }}**.
 
-Generally, I'm interested in everything that strengthens people's ability and cooperation, especially those enhancing people's understanding and control.<br />
-I consider non-centralized services a good way of de-powering the capital for short-term profit while en-powering long-term productivity.<br />
+I'm currently a postdoc at the Department of Computer Science, University of Oxford. I work for the [EWADA (Ethical Web And Data Architecture)](https://ewada.ox.ac.uk/) project, at the Human-Centred Computing group, with Sir Nigel Shadbolt and Sir Tim Berners-Lee. See [the Research page](/research/) for more details.
+
+Prior to this, I obtained my PhD from [AIAI](http://web.inf.ed.ac.uk/aiai), School of Informatics, University of Edinburgh, supervised by Prof. Malcolm Atkinson, Dr. Petros Papapanagiotou and Dr. Jacques Fleuriot. My thesis title is: *Dr.Aid: A formal framework assisting compliance with data governance rules*.
+
+Generally, I'm interested in everything that strengthens people's ability and cooperation, especially those enhancing people's understanding and control.  
+I consider non-centralized services a good way of de-powering the capital for short-term profit while en-powering long-term productivity.  
 For the same reason, I consider *free software* not only a terminology, but the ideology and methodology.
 
+Arch Linux is my main distro. I do some FLOSS development in spare time (see [Coding](/coding/)).
 
-<div class="row">
-{% include about/skills.html title="Languages" source=site.data.language-skills %}
-{% include about/skills.html title="Frameworks" source=site.data.framework-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
 
-<div class="row">
-{% include about/timeline.html %}
-</div>
+
+<!-- <div class="row"> -->
+<!-- {% include about/skills.html title="Languages" source=site.data.language-skills %} -->
+<!-- {% include about/skills.html title="Frameworks" source=site.data.framework-skills %} -->
+<!-- {% include about/skills.html title="Other Skills" source=site.data.other-skills %} -->
+<!-- </div> -->
+
+<!-- <div class="row"> -->
+<!-- {% include about/timeline.html %} -->
+<!-- </div> -->

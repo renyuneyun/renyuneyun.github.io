@@ -1,7 +1,8 @@
 # Site settings
-title: "@renyuneyun - Rui Zhao"
+title: "Rui Zhao - @renyuneyun"
 description: >- # this means to ignore newlines until "baseurl:"
-    A FLOSS one.
+    Postdoc at Department of Computer Science, University of Oxford  <br />
+    Data privacy; user empowerment; data-use policy
 baseurl: ""
 url: "https://me.ryey.icu" # the base hostname & protocol for your site, e.g. http://example.com
 repository: renyuneyun/renyuneyun.github.io
@@ -9,7 +10,7 @@ repository: renyuneyun/renyuneyun.github.io
 
 # Build settings
 markdown: kramdown
-remote_theme: YoussefRaafatNasry/portfolYOU
+remote_theme: YoussefRaafatNasry/portfolYOU@v2.3.0
 # plugins:
 # - jekyll-feed
 
