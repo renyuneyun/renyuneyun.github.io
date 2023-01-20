@@ -26,4 +26,4 @@ My PhD work mainly focused on formally modelling and compliance reasoning of dat
 3. How to derive the data-use policies for the output data?
 4. How to check compliance of such policies?
 
-See [my previous research homepage](https://renyuneyun.github.io/ac) for more details if interested.
+See [my previous research homepage](https://renyuneyun.github.io/portfolio-phd) for more details if interested.
