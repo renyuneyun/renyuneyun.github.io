@@ -7,12 +7,12 @@ weight: 2
 
 # In [EWADA](https://ewada.ox.ac.uk/)
 
-My current work mainly involves improving the privacy and empowering users of data use in the decentralised data architectures like [SoLiD](solidproject.org/). That mainly lies on the following topics:
+My current work mainly involves improving the privacy and empowering users of data use in the decentralised data architectures like [SoLiD](https://solidproject.org/). That mainly lies on the following topics:
 
 1. How to securely and efficiently (collaboratively) use multiple users' data in a decentralised data architecture?
 2. How to empower users and give them more control and understanding of their data use?
-   1. What governance requirements the users and the applications would have?
-   2. How to use a sensible a data Terms of Use framework to lower the user's recognition overhead?
+      1. What governance requirements the users and the applications would have?
+      2. How to use a sensible a data Terms of Use framework to lower the user's recognition overhead?
 3. How to properly facilitate users to use the the technologies we provided?
 
 That also bridges back with my PhD work on modelling and reasoning of data-use policies in decentralised contexts.
