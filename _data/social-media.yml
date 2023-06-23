@@ -5,7 +5,7 @@ email:
 
 orcid:
   url   : https://orcid.org/
-  icon  : fa-brands fa-orcid
+  icon  : fab fa-orcid
   color : a6ce39
 
 github:
