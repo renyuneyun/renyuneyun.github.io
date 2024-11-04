@@ -5,25 +5,25 @@ permalink: /research/
 weight: 2
 ---
 
-# In [EWADA](https://ewada.ox.ac.uk/)
+I am a postdoctoral researcher at the [HCC group](https://hcc.cs.ox.ac.uk/), Department of Computer Science, University of Oxford, working with Prof. Sir Nigel Shadbolt and Prof. Sir Tim Berners-Lee (at the [EWADA project](https://ewada.ox.ac.uk/)), on user-centered data usage control and user-centered AI, on decentralized Web or alike contexts, especially [SoLiD (Social Linked Data)](https://solidproject.org/). \
+Prior to this, I obtained PhD degree from [AIAI](https://web.inf.ed.ac.uk/aiai), School of Informatics, the University of Edinburgh, supervised by Prof. Malcolm Atkinson, Dr. Petros Papapanagiotou and Prof. Jacques Fleuriot.
 
-My current work mainly involves improving the privacy and empowering users of data use in decentralised data architectures like [SoLiD (Social Linked Data)](https://solidproject.org/). That mainly lies on the following topics:
+In general, my research surrounds data governance, data usage control and data protection mechanisms, especially in decentralized / multi-stakeholder contexts. It mainly concerns the technical mechanism design, but also considers user perspectives and expectations. \
+(Neural-)Symbolic AI / Logic and Privacy-Enhancing Technology are the main elements for the technical parts. Data and user (empowerment) are the main factors. They can be organized into the following topics:
 
-1. How to securely and efficiently (collaboratively) use multiple users' data in a decentralised data architecture? [[ref]](https://arxiv.org/abs/2309.16365)
-2. How to empower users and give them more control and understanding of their data use? [[ref]](https://arxiv.org/abs/2403.07587)
-      1. What governance requirements the users and the applications would have?
-      2. How to use a sensible data Terms of Use framework to lower the user's recognition overhead?
-3. What challenges and opportunities do Large-Language Models or personal agents bring? [[ref]](https://arxiv.org/abs/2403.10408)
-4. How to properly facilitate users to use the the technologies we provided?
+1. Data Terms of Use (DToU): How to empower users and give them more control and understanding of their data use? [[ref]](https://arxiv.org/abs/2403.07587)
+      - Regulatory / Compliance: what is the *status quo*, and (how) can we improve that?
+2. Data privacy: How to securely and efficiently use multiple users' data (collaboratively) in a decentralised data architecture? [[ref]](https://arxiv.org/abs/2309.16365)
+3. GenAI: What challenges and opportunities do Large-Language Models (LLMs) or personal agents bring (to facilitate people)? [[ref]](https://arxiv.org/abs/2403.10408)
+      - See also [Tim Berners-Lee's design notes](https://www.w3.org/DesignIssues/PrivateData.html) on this topic
+4. User perception: how do users perceive (the issues of) data and how can we facilitate them?
 
-As a result, technologies include Privacy-Enhancing Technologies (PETs), formal modelling and reasoning, and semantic technologies.
+Read more of my papers in the [publication page](./publications.md) if you are interested.
 
 
-Some topics also bridge back with my PhD work on modelling and reasoning of data-use policies in decentralised contexts.
+## Linking back to PhD work
 
-# PhD work
-
-My PhD work mainly focused on formally modelling and compliance reasoning of data-use policies (or data Terms of Use, as we call it now) in decentralised collaboration contexts (e.g. interdisciplinary research / collaboration like e-Science). That involves the following questions: 
+The DToU topic also bridges back with my PhD work on modelling and reasoning of data-use policies, in interdisciplinary research / collaboration contexts (e.g. e-Science), with the following questions:
 
 1. How to formally model data-use policies taking the properties of decentralised contexts into account?
 2. How to deal with the Multi-Input-Multi-Output nature of the workflows in such data-processing contexts?
