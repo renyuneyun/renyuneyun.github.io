@@ -38,7 +38,7 @@ weight: 3
 ## Preprints / Working Papers
 
 - Let's Measure the Elephant in the Room: Facilitating Personalized Automated Analysis of Privacy Policies at Scale \
-  **Rui Zhao**, Jun Zhao, Vladyslav Melnychuk and N. Shadbolt \
+  **Rui Zhao**, Jun Zhao, Vladyslav Melnychuk and Nigel Shadbolt \
   Under review
 - "They've Stolen My GPL-Licensed Model!": Toward Standardized and Transparent Model Licensing’ \
   Moming Duan, **Rui Zhao**, Linshan Jiang, Nigel Shadbolt, Bingsheng He \
