@@ -1,4 +1,4 @@
-# Site settings
+### Site Settings ###
 title: "Rui Zhao - @renyuneyun"
 description: >- # this means to ignore newlines until "baseurl:"
     Postdoc at Department of Computer Science, University of Oxford  <br /><br />
@@ -6,16 +6,27 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://me.ryey.icu" # the base hostname & protocol for your site, e.g. http://example.com
 repository: renyuneyun/renyuneyun.github.io
+remote_theme        : yousinix/portfolYOU
+open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 # Build settings
 markdown: kramdown
-remote_theme: YoussefRaafatNasry/portfolYOU@v2.3.0
-# plugins:
-# - jekyll-feed
+
+### Plugins ###
+plugins:
+  - jemoji
 
 
-# Author Info
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - documentation/partials/**                           # For Documentation Only
+
+
+### Author Info ###
 author:
   name     : Rui Zhao (renyuneyun)
   image    : https://www.gravatar.com/avatar/2056d56888b443ab438fb956e898cc9d?s=300
@@ -27,27 +38,59 @@ author:
   mastodon : "@renyuneyun"
 
 
-# Collections
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
 collections:
   projects:
     output: true
     permalink: /projects/:name
 
 
-# Default values for collections
+# ### Disqus ###
+# disqus:
+#   shortname: your-short-name-disqus                     # Your website Shortname on disqus
+#
+#
+# ### Analytics ###
+# analytics:
+#   enabled: false                                        # Set true to enable analytics
+#   google:
+#     tracking_id: your-google-tracking-id
+#
+#
+# ### Buy me a coffee ###
+# # See https://www.buymeacoffee.com/
+# buymeacoffee:
+#   enabled: false
+#   username: your_username
+#   color: "#007bff"
+#   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+#   description: "Support me on Buy me a coffee!"
+
+
+### Defaults for collections ###
 defaults:
   - scope:
       path: ""
       type: "projects"
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
 
 
-# Exclude from processing.
+### Exclude from processing ###
 exclude:
-- README.md
-- CONTRIBUTING.md
-- LICENSE
-- Gemfile
-- Gemfile.lock
-- vendor/
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
