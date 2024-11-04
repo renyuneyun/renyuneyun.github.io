@@ -45,7 +45,7 @@ weight: 3
   Under review
 - Libertas: Privacy-Preserving Computation for Decentralised Personal Data Stores \
   {% include elements/highlight.html text="Rui Zhao" %}, Naman Goel, ..., Tim Berners-Lee, and Nigel Shadbolt \
-  [[Paper]](https://arxiv.org/abs/2309.16365) (Status: Major revision from CSCW 2025)
+  [[Paper]](https://arxiv.org/abs/2309.16365) (Status: Under revision after review from CSCW)
 - Decentralised, Scalable and Privacy-Preserving Synthetic Data Generation \
   Vishal Ramesh, {% include elements/highlight.html text="Rui Zhao" %} and Naman Goel \
   [[Paper]](https://arxiv.org/abs/2310.20062)
