@@ -7,7 +7,7 @@ baseurl: ""
 url: "https://me.ryey.icu" # the base hostname & protocol for your site, e.g. http://example.com
 repository: renyuneyun/renyuneyun.github.io
 remote_theme        : yousinix/portfolYOU
-open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : true                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 # Build settings
