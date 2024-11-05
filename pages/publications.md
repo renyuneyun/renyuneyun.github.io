@@ -10,7 +10,7 @@ weight: 3
 
 - Trouble in Paradise? Understanding Mastodon Admin’s Motivations, Experiences, and Challenges Running Decentralised Social Media \
   Zhilin Zhang, Jun Zhao, ..., **{% include elements/highlight.html text="Rui Zhao" %}**, ..., Nigel Shadbolt \
-  (Accepted by) The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2025)
+  (Accepted by) The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2024)
 - Perennial Semantic Data Terms of Use for Decentralized Web \
   **{% include elements/highlight.html text="Rui Zhao" %}**, Jun Zhao \
   Proceedings of the ACM on Web Conference 2024 (WWW 2024) \
