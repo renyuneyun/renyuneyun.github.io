@@ -5,12 +5,18 @@ permalink: /publications/
 weight: 3
 ---
 
-
 ## Publications
 
+- Libertas: Privacy-Preserving Computation for Decentralised Personal Data Stores  
+  **{% include elements/highlight.html text="Rui Zhao" %}**, Naman Goel, ..., Tim Berners-Lee, and Nigel Shadbolt \
+  (Accepted by) The 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2025) \
+  [[Paper]](https://arxiv.org/abs/2309.16365)
+- Position: Current Model Licensing Practices are Dragging Us into a Quagmire of Legal Noncompliance \
+  Moming Duan, Mingzhe Du, **{% include elements/highlight.html text="Rui Zhao" %}**, Mengying Wang, Yinghui Wu, Nigel Shadbolt, Bingsheng He \
+  The 42nd International Conference on Machine Learning (ICML 2025)
 - Trouble in Paradise? Understanding Mastodon Admin’s Motivations, Experiences, and Challenges Running Decentralised Social Media \
   Zhilin Zhang, Jun Zhao, ..., **{% include elements/highlight.html text="Rui Zhao" %}**, ..., Nigel Shadbolt \
-  (Accepted by) The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2024)
+  The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2024)
 - Perennial Semantic Data Terms of Use for Decentralized Web \
   **{% include elements/highlight.html text="Rui Zhao" %}**, Jun Zhao \
   Proceedings of the ACM on Web Conference 2024 (WWW 2024) \
@@ -34,27 +40,25 @@ weight: 3
   **{% include elements/highlight.html text="Rui Zhao" %}** and Malcolm Atkinson \
   Proceedings of 2019 15th International Conference on eScience (eScience 2019), BC2DC
 
-
 ## Preprints / Working Papers
 
+- An LLM-enabled semantic-centric framework to consume privacy policies \
+  **{% include elements/highlight.html text="Rui Zhao" %}**, Vladyslav Melnychuk, Jun Zhao, Jesse Wright and Nigel Shadbolt
 - Let's Measure the Elephant in the Room: Facilitating Personalized Automated Analysis of Privacy Policies at Scale \
-  **{% include elements/highlight.html text="Rui Zhao" %}**, Jun Zhao, Vladyslav Melnychuk and Nigel Shadbolt \
-  Under review
+  **{% include elements/highlight.html text="Rui Zhao" %}**, Vladyslav Melnychuk, Jun Zhao and Nigel Shadbolt
 - "They've Stolen My GPL-Licensed Model!": Toward Standardized and Transparent Model Licensing’ \
-  Moming Duan, **{% include elements/highlight.html text="Rui Zhao" %}**, Linshan Jiang, Nigel Shadbolt, Bingsheng He \
-  Under review
-- Libertas: Privacy-Preserving Computation for Decentralised Personal Data Stores \
-  **{% include elements/highlight.html text="Rui Zhao" %}**, Naman Goel, ..., Tim Berners-Lee, and Nigel Shadbolt \
-  [[Paper]](https://arxiv.org/abs/2309.16365) (Status: Under revision after review from CSCW)
+  Moming Duan, **{% include elements/highlight.html text="Rui Zhao" %}**, Linshan Jiang, Nigel Shadbolt, Bingsheng He
 - Decentralised, Scalable and Privacy-Preserving Synthetic Data Generation \
   Vishal Ramesh, **{% include elements/highlight.html text="Rui Zhao" %}** and Naman Goel \
   [[Paper]](https://arxiv.org/abs/2310.20062)
 - A Logical Formalization of a Data-Use Policy Language for Data-Flow Graphs \
   **{% include elements/highlight.html text="Rui Zhao" %}**, Malcolm Atkinson, Petros Papapanagiotou and Jacques Fleuriot
 
-
 ## CEUR & Other
 
+- Introduce an Auditing Layer to Web Science \
+  **{% include elements/highlight.html text="Rui Zhao" %}** and Jesse Wright \
+  In Proceedings of the 17th ACM Web Science Conference Companion 2025
 - Me Want Cookie! Towards Automated and Transparent Data Governance on the Web’ \
   Jesse Wright, Beatriz Esteves, and **{% include elements/highlight.html text="Rui Zhao" %}** \
   NXDG, SEMANTiCS 2024
