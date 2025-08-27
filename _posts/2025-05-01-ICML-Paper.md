@@ -1,8 +1,8 @@
 ---
 title: Paper accepted by ICML 2025
 tags: [Conference, Machine Learning, Large Language Model, License, Formal Reasoning]
-style: border
-color: secondary
+style: fill
+color: primary
 description: Our paper is accepted by ICML 2025 for oral presentation
 ---
 

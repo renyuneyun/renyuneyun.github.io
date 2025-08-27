@@ -1,8 +1,8 @@
 ---
 title: Paper accepted by CSCW 2025
 tags: [Paper, Conference]
-style: border
-color: secondary
+style: fill
+color: primary
 description: 'Our paper "Libertas: Privacy-Preserving Collective Computation for Decentralised Personal Data Stores" has been accepted by CSCW 2025 at Bergen'
 ---
 

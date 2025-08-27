@@ -1,8 +1,8 @@
 ---
 title: 3rd Privacy Session @ Solid Symposium 2025
 tags: [Solid, Conference, CfP]
-style: border
-color: secondary
+style: fill
+color: warning
 description: Call for Paper for 3rd Privacy Session at Solid Symposium 2025
 ---
 
