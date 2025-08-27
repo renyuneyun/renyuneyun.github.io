@@ -1,3 +1,6 @@
+# Get Icons  from : https://fontawesome.com/icons
+# Get Colors from : https://brandcolors.net/
+
 email:
   url   : "mailto:"
   icon  : fas fa-envelope
@@ -5,7 +8,7 @@ email:
 
 orcid:
   url   : https://orcid.org/
-  icon  : fa-brands fa-orcid
+  icon  : fab fa-orcid
   color : a6ce39
 
 github:
@@ -24,7 +27,7 @@ linkedin:
   color : 007bb5
 
 mastodon:
-  url   : https://pod.ryey.icu/
+  url   : https://scholar.social/
   icon  : fab fa-mastodon
   color : 00bce4
 
