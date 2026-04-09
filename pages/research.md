@@ -7,11 +7,10 @@ weight: 2
 
 ## Overview
 
-I am a postdoctoral researcher at the [HCC group](https://hcc.cs.ox.ac.uk/), Department of Computer Science, University of Oxford, working with Prof. Sir Nigel Shadbolt and Prof. Sir Tim Berners-Lee (at the [EWADA project](https://ewada.ox.ac.uk/)), on user-centered data usage control and user-centered AI, on decentralized Web or alike contexts, especially [SoLiD (Social Linked Data)](https://solidproject.org/).  
-Prior to this, I obtained PhD degree from [AIAI](https://web.inf.ed.ac.uk/aiai), School of Informatics, the University of Edinburgh, supervised by Prof. Malcolm Atkinson, Dr. Petros Papapanagiotou and Prof. Jacques Fleuriot.
+I am an Associate Professor at School of Cyber Security, Tianjin University. Before that, I was a postdoctoral researcher at the University of Oxford, working with Prof. Sir Nigel Shadbolt and Prof. Sir Tim Berners-Lee (at the [EWADA project](https://ewada.ox.ac.uk/)), on user-centered data usage control and user-centered AI, on decentralized Web or alike contexts, especially [SoLiD (Social Linked Data)](https://solidproject.org/). Prior to that, I obtained my PhD degree from the University of Edinburgh, supervised by Prof. Malcolm Atkinson, Dr. Petros Papapanagiotou and Prof. Jacques Fleuriot.
 
-In general, my research surrounds data governance, data usage control and data privacy, especially in decentralized / multi-stakeholder contexts. It mainly concerns the technical mechanism design, but also considers user perspectives and expectations.  
-(Neural-)Symbolic AI, Knowledge Graph and Privacy-Enhancing Technology are the main topics for the technical parts. Data, accountability and user (empowerment) are the main factors.  
+In general, my research surrounds data governance, data usage control and data privacy, especially in decentralized / multi-stakeholder contexts. It mainly concerns the technical mechanism design, but also considers user perspectives and expectations.
+(Neural-)Symbolic AI, Knowledge Graph and Privacy-Enhancing Technology are the main topics for the technical parts. Data, accountability and user (empowerment) are the main factors.
 
 See also [here](../assets/cv.en.pdf) for my CV.
 
@@ -34,26 +33,26 @@ I [co-]supervise several master, bachelor and intern students. They work[ed] on 
 
 ### Master & Bachelor Thesis
 
-- Esther Miles [2025, Part C (Bachelor + Master)]  
+- Esther Miles [2025, Part C (Bachelor + Master)]
   Data Terms of Use: Annotating Health and Wellness Data in Privacy Policies
-- Vladyslav Melnychuk [2024, Master]  
+- Vladyslav Melnychuk [2024, Master]
   *Bridging Real-World Policies and a Formal Data Terms of Use Language*
-- Rithvik Chatterjee [2024, Part C (Bachelor + Master)]  
+- Rithvik Chatterjee [2024, Part C (Bachelor + Master)]
   *User Interface for supporting users’ data autonomy in a fitness tracking application*
-- Emilia Folta [2024, Part C (Bachelor + Master)]  
+- Emilia Folta [2024, Part C (Bachelor + Master)]
   *User Interface for understanding the effect of data autonomy on social media user experience*
-- Vishal Ramesh [2023, Master]  
+- Vishal Ramesh [2023, Master]
   *Improving the Scalability of Privacy-Friendly Synthetic Data Generation in Solid*
-- Yuexuan Li [2020, Master]  
+- Yuexuan Li [2020, Master]
   *Evaluating MongoDB’s suitability for knowledge bases*
 
 ### Interns
 
-- Clerie Gilbert [2024]  
+- Clerie Gilbert [2024]
   JurisMetrix: User expectation expression and EdTech platform policy analysis using DToU
-- Yushi Yang [2023]  
+- Yushi Yang [2023]
   SolidFlix++: Decentralized collaborative filtering for movie recommendation on Solid
-- Zimeng Zhou [2022]  
+- Zimeng Zhou [2022]
   KNoodle + Orchestrator: Calendar syncthing and meeting scheduling on Solid and existing servers
 
 ## Other
