@@ -33,8 +33,10 @@ I [co-]supervise several master, bachelor and intern students. They work[ed] on 
 
 ### Master & Bachelor Thesis
 
+- Teresa Huang [2025, Master]
+  *A Formal Reasoning System for Cross-Jurisdictional License Compliance in Software Dependency Graphs*
 - Esther Miles [2025, Part C (Bachelor + Master)]
-  Data Terms of Use: Annotating Health and Wellness Data in Privacy Policies
+  *Data Terms of Use: Annotating Health and Wellness Data in Privacy Policies*
 - Vladyslav Melnychuk [2024, Master]
   *Bridging Real-World Policies and a Formal Data Terms of Use Language*
 - Rithvik Chatterjee [2024, Part C (Bachelor + Master)]
