@@ -13,3 +13,5 @@ Gemfile.lock
 *.log
 
 */bak/*
+
+.DS_Store
